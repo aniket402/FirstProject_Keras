@@ -4,6 +4,8 @@ Keras make a lot of things easier to us than tensorflow. In tensorflow, a lot of
 
 Keras requires a backend framework like tensorflow to run. So, we can say that keras is basically a layer over tf.
 
+Breast cancer dataset is used here, which is a binary classification problem. 
+
 ## Flow of code in keras
 
 1. Create model - We have used keras sequential model.
