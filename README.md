@@ -21,7 +21,7 @@ Breast cancer dataset is used here, which is a binary classification problem.
       |dense_3(hidden)|16|relu|
       |dense_4(output)|1|sigmoid|
 
-## Result
+## Results
 
 ### Loss/Accuracy vs Epoch
 
