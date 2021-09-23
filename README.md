@@ -1,4 +1,4 @@
-# Exploring keras
+# Working with keras
 
 Keras make a lot of things easier to us than tensorflow. In tensorflow, a lot of code was supposed to be written by us. We had to initialise the weights, write the forward and backward propagation code, then specify the cost function, create the optimiser, call minimize on it and then basically run a loop with specific batch size and call optimize multiple times. Keras basically simplifies the code and we are saved from writing a lot of redundant code. 
 
