@@ -6,7 +6,7 @@ Keras requires a backend framework like tensorflow to run. So, we can say that k
 
 ## Flow of code in keras
 
-1. Create Model - We have used keras sequential model.
+1. Create model - We have used keras sequential model.
 2. Add layers and define the architecture.
 4. Compile
 5. Fit
