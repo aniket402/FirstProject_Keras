@@ -23,3 +23,7 @@ Keras requires a backend framework like tensorflow to run. So, we can say that k
 
 ### Loss/Accuracy vs Epoch
 
+![fig1 (1)](https://user-images.githubusercontent.com/57486558/134528611-e4db6d98-e51a-409e-bee2-0a021537ddb1.jpg)
+![fig2 (1)](https://user-images.githubusercontent.com/57486558/134528728-3599777f-2a1f-4c16-a0f5-d5c9ee2eb46f.jpg)
+
+
